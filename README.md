@@ -9,7 +9,7 @@ Microserviço parte da implementação do Trabalho de Conclusão de Curso, para 
 Para se utilizar a implementação/desenvolver é necessário criar um conta Pratice na corretora oanda, afim de se obter o ```account_id``` e a ```API Key```
 
 **Site da corretora:** 
-    * https://www.oanda.com/lang/pt/
+* https://www.oanda.com/lang/pt/
 
 **API Docs:**
 * https://oanda-api-v20.readthedocs.io/en/latest/
@@ -20,8 +20,9 @@ Para se utilizar a implementação/desenvolver é necessário criar um conta Pra
 É recomendado que se utilizar o virtualenv para o desenvolvimento a fim de se isolar as dependêcias do projeto.
 
 **Istalação e Configuração ```virtualenv```:**
-https://pythonacademy.com.br/blog/python-e-virtualenv-como-programar-em-ambientes-virtuais
+* https://pythonacademy.com.br/blog/python-e-virtualenv-como-programar-em-ambientes-virtuais
 
+**Instalação das dependências com ```pip```:**
 ```
 pip install -U -r requirements.txt 
 ```
