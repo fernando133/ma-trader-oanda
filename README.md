@@ -19,7 +19,7 @@ Para se utilizar a implementação/desenvolver é necessário criar um conta Pra
 ## Pacotes necessários
 É recomendado que se utilizar o virtualenv para o desenvolvimento a fim de se isolar as dependêcias do projeto.
 
-**Istalação e Configuração ```virtualenv```:**
+**Instalação e Configuração ```virtualenv```:**
 * https://pythonacademy.com.br/blog/python-e-virtualenv-como-programar-em-ambientes-virtuais
 
 **Instalação das dependências com ```pip```:**
