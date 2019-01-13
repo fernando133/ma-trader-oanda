@@ -1,0 +1,10 @@
+{
+    "script-conf":{
+        "oanda":{
+            "api_key"       : "101-004-6504507-001", 
+            "account_id"   : "21b6560a5023c9ba5f9806365994d13a-867f7d06bc90465b3a5cf9c80bfa8c33",
+            "environment"  : "practice"
+         }
+    }
+}
+

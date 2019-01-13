@@ -1,0 +1,8 @@
+setuptools
+numpy
+git+https://github.com/oanda/oandapy.git
+oandapyV20
+pandas
+ipython
+matplotlib
+configparser

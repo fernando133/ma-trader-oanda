@@ -1,0 +1,8 @@
+*_conf.json
+*.pyc
+.ipynb_checkpoints
+.csv
+config/config.ini
+notebooks
+
+
