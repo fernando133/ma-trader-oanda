@@ -12,8 +12,8 @@ Para se utilizar a implementação/desenvolver é necessário criar um conta Pra
     * https://www.oanda.com/lang/pt/
 
 **API Docs:** 
-    * https://oanda-api-v20.readthedocs.io/en/latest/
-    * http://developer.oanda.com/rest-live-v20/introduction/        
+    > https://oanda-api-v20.readthedocs.io/en/latest/
+      http://developer.oanda.com/rest-live-v20/introduction/        
 
 
 ## Pacotes necessários
