@@ -2,23 +2,23 @@
 # -*- coding: utf-8 -*-
 from helpers.ma_trader_helper import MaTraderHelper
 import time
+import sys
 
-_ma_window      = 20
-_instrument     = 'EUR_USD'
-_count          = 1000
-_granularity    = 'M30'
+print 'Argument List:', str(sys.argv)
+arguments          = sys.argv
+_instrument        = arguments[1]
+_granularity       = arguments[2]
+_loop_time_minutes = int(arguments[3])
+_ma_window         = int(arguments[4])
+_start_hour        = int(arguments[5])
+_start_minute      = int(arguments[6])
+_end_hour          = int(arguments[7])
+_end_minute        = int(arguments[8])
 
-_units_buy      = '1000'
-_units_sell     = '-1000'
-
-_time_in_force          = 'FOK'
-_loop_time_minutes      = 30
-
-_start_hour             = 11
-_start_minute           = 58
-
-_end_hour               = 22
-_end_minute             = 22
+_count             = 1000
+_units_buy         = '1000'
+_units_sell        = '-1000'
+_time_in_force     = 'FOK'
 
 def watchdog():
     '''
